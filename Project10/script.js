@@ -9,7 +9,7 @@ const progressContainer = document.getElementById('progress-container');
 const title = document.getElementById('title');
 const cover = document.getElementById('cover');
 const currTime = document.querySelector('#currTime');
-const durTime = document.querySelector('#durTime');
+const durTime = document.querySelector('#durrTime');
 
 // Songs title
 const songs = ['hey', 'summer', 'ukelele'];
